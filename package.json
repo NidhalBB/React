@@ -1,8 +1,0 @@
-{
-  "dependencies": {
-    "bootstrap": "^5.1.3"
-  },
-  "devDependencies": {
-    "tailwindcss": "^3.0.23"
-  }
-}
